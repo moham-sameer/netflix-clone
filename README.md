@@ -8,8 +8,8 @@
 
 ## Features:
 
-* I have used an Api and created a responsive weather app.
-*  you can search weather of the world by cityname, state/province or country.
+* I have used an tmdb Api and created a netflix-clone.
+
 ## Deployed On:
    <p align="left">  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" alt="tailwind" width="110" height="55"/> </a> </p>
    
