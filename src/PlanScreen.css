@@ -1,0 +1,21 @@
+.plans{
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0;
+}
+
+.plans > button{
+    background-color: #e50914;
+    color: #fff;
+    border: none;
+    padding: 4px 20px;
+    font-weight: 600;
+    font-size: 14px;
+    cursor: pointer;
+    transition: transform  450ms;
+}
+.plans > button:hover{
+ transform: scale(1.02);
+
+}
+
