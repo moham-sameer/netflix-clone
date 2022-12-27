@@ -8,7 +8,7 @@
 
 ## Features:
 
-* I have used an tmdb Api and created a netflix-clone.
+* I have used tmdb Api and created a netflix-clone.
 
 ## Deployed On:
    <p align="left">  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" alt="tailwind" width="110" height="55"/> </a> </p>
